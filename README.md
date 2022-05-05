@@ -1,1 +1,2 @@
-# MySchoolBoot
+# MySchool
+School
