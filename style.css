@@ -104,3 +104,7 @@ max-width: 100%;
 height: auto;
 border: solid 8px white;
 }
+.displayed{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
